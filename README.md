@@ -50,8 +50,12 @@ tracks:
 083 There We Go by Stamina Overlook
 084 Experimentation by Stamina Overlook & Jason64
 085 Stranded Up(Reprise) by Stamina Overlook
+087 OVERTIME! by ciphGene
+088 Crash with Dispair! by ciphGene
+089 OVERTIME. by ciphGene
 090 His Mission by Captain Normalguy
+091 Heading Back by ciphGene
 092 Repose by Stamina Overlook
 097 But the Earth Refused to Stay Sober by Hero
 099 Power of Bonk by Kalahkain
-100 Mechalovania 2018 by cipherGeneticist (edited in audacity by me to make it loopable)
+100 Texan Defense by ciphGene
