@@ -95,7 +95,7 @@ tracks:
  
 065 mus_core Factory by Coolasp1e & Stamina Overlook
  
-066 mus_battle2 = unchanged
+066 mus_battle2 = Danger Approaching by Grassinio
  
 067 mus_mettaton_pretransform = Oh Wow by Captain Normalguy
  
