@@ -155,7 +155,7 @@ mus_geno_battle = altered Examination
  
 mus_geno_boss = altered dilated cacophony
  
-mus_geno_jane = Ameritrousle slowed down by -60%
+mus_geno_jane = Ameritrousle with pitch reduced by -80%
  
 mus_geno_theme = the Random Crit by unknown
  
