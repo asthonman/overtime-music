@@ -43,7 +43,7 @@ tracks:
  
 023 mus_shop = Shop Station by Captain Normalguy
  
-024 mus_bonetrousle = Spoils of War by Xeno
+024 mus_bonetrousle = Ameritrousle by ciphGene
  
 025 mus_date_start = unchanged
  
@@ -73,7 +73,7 @@ tracks:
  
 047 mus_oogloop = unchanged
  
-048 mus_lab = Eli by Captain Normalguy
+048 mus_lab = Eli by Coolasp1e
  
 049 mus_mtgameshow = It's My Freaking Show! by Captain Normalguy
  
