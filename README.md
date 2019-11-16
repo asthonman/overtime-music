@@ -151,9 +151,9 @@ tracks:
  
 mus_disaster = unchanged
  
-mus_geno_battle = altered Examination
+mus_geno_battle = Your Team Is Dead by SteelmaticDragon
  
-mus_geno_boss = altered dilated cacophony
+mus_geno_boss = Unnamed track by SteelmaticDragon
  
 mus_geno_jane = Ameritrousle with pitch reduced by -80%
  
