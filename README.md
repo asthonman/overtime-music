@@ -87,7 +87,7 @@ tracks:
  
 059 mus_spider = Dance Le Crab by Captain Normalguy
  
-060 mus_wrongworld = TF classic theme (temporary)
+060 mus_wrongworld = Fool Enemy?! by Captain Normalguy
  
 061 mus_musical = unchanged
 
@@ -159,8 +159,12 @@ mus_geno_jane = Ameritrousle with pitch reduced by -80%
  
 mus_geno_theme = the Random Crit by unknown
  
-mus_wind = unchanged
+mus_wind = Unnamed track by Cifer
  
 mus_zzz_c = unchanged
  
-mus_zzz_c2 = unchanged
+mus_zzz_c2 = unnamed track by Alex
+
+alternate tracks
+
+mus_wrongworld_alt1 = Intruder Alert?! by Nether Spectre
