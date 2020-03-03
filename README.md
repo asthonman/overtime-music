@@ -91,7 +91,7 @@ tracks:
  
 061 mus_musical = unchanged
 
-064 mus_coretransition = unchanged
+064 mus_coretransition = FACTORY approach by coolasp1e & Stamina Overlook
  
 065 mus_core Factory by Coolasp1e & Stamina Overlook
  
